@@ -67,4 +67,6 @@ npx pnpm --filter @workspace/prithvix run dev -- --port 5174
 
 ## 📜 License
 
-MIT License.
+Apache license 2.0 
+
+
