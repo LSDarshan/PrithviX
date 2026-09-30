@@ -25,11 +25,11 @@ PrithviX is an AI-powered platform for converting Indian land records (like Paha
 
 ## 🚀 How to Start the Application
 
-Run commands from the **`Replit-Design-Project`** workspace directory:
+Run commands from the **`prithviX`** workspace directory:
 
 ### Step 1: Open the Project Directory
 ```bash
-cd Replit-Design-Project
+cd prithviX
 ```
 
 ### Step 2: Start Backend API Server (Port 5000)
